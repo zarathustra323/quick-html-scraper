@@ -4,6 +4,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node src",
     "lint": "node_modules/.bin/eslint src"
   },
   "dependencies": {
